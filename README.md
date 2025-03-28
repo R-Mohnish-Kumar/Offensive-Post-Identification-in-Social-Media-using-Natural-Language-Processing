@@ -45,7 +45,7 @@ This project aims to identify offensive posts in social media using Natural Lang
    ```
 2. Open the Jupyter Notebook file:
    ```bash
-   jupyter notebook unveiling_crime_patterns_in_chicago.ipynb
+   jupyter notebook Offensive_Post_Identification_in_Social_Media_(NLP) (1).ipynb
    ```
 3. Execute the cells step-by-step to analyze the data and train the models.
 
