@@ -43,7 +43,7 @@ This project aims to identify offensive posts in social media using Natural Lang
    ```bash
    git clone https://github.com/R-Mohnish-Kumar/Offensive-Post-Identification-in-Social-Media-using-Natural-Language-Processing.git
    ```
-2. Open the Jupyter Notebook file:
+2. Open the Jupyter Notebook file (Or you can upload the .ipynb file in Google Colaboratory to run the code):
    ```bash
    jupyter notebook Offensive_Post_Identification_in_Social_Media_(NLP) (1).ipynb
    ```
