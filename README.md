@@ -39,7 +39,7 @@ This project aims to identify offensive posts in social media using Natural Lang
 
 ## Installation and Usage
 
-1. 1. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/R-Mohnish-Kumar/Unveiling-Crime-Patterns-in-Chicago-A-Topic-Modeling-and-Hotspot-Analysis-Approach..git
    ```
@@ -47,5 +47,5 @@ This project aims to identify offensive posts in social media using Natural Lang
    ```bash
    jupyter notebook unveiling_crime_patterns_in_chicago.ipynb
    ```
-3. Execute the cells step-by-step to analyze the data and generate visualizations.
+3. Execute the cells step-by-step to analyze the data and train the models.
 
