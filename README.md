@@ -41,7 +41,7 @@ This project aims to identify offensive posts in social media using Natural Lang
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/R-Mohnish-Kumar/Unveiling-Crime-Patterns-in-Chicago-A-Topic-Modeling-and-Hotspot-Analysis-Approach..git
+   git clone https://github.com/R-Mohnish-Kumar/Offensive-Post-Identification-in-Social-Media-using-Natural-Language-Processing.git
    ```
 2. Open the Jupyter Notebook file:
    ```bash
